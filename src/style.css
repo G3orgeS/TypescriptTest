@@ -1,0 +1,14 @@
+.outputtext {
+    font-size: x-large;  
+}
+.title {
+    font-size: xx-large;
+}
+.center {
+    display: flex;
+    width: 10rem;
+    height: 10rem;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
